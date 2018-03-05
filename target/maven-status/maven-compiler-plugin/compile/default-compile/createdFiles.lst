@@ -1,0 +1,10 @@
+com\spring\service\RestUserService.class
+com\spring\dao\RestUserDaoImpl.class
+com\spring\controller\HomeController.class
+com\spring\config\WebAppInitializer.class
+com\spring\config\WebConfig.class
+com\spring\config\HibernateConfiguration.class
+com\spring\dao\AbstractDao.class
+com\spring\model\RestUser.class
+com\spring\service\RestUserServiceImpl.class
+com\spring\dao\RestUserDao.class
